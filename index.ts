@@ -78,5 +78,6 @@ function testClaseEdificio() {
 
 function main() {
   testClaseEdificio();
+  console.log("soy otra persona")
 }
 main();
